@@ -1,4 +1,4 @@
-# Samsung-Supply-Chain-Project-
+# Samsung-Supply-Chain-Project
 <p>
   Supply Chain Analytics Dashboard | Power BI, Power Query, DAX, Data Modeling, MS Excel
 <br><br>
